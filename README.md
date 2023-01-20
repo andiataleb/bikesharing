@@ -12,33 +12,33 @@ There is a potential investor who we would like to convince to fund this project
 According to this graph, majority of the bikes were used for less than 10 minutes and hardly any of the bikes were used for longer than 1 hour.
 
 
-![]/(Images/2.png)
+![](Images/2.png)
 
 By looking at this line chart, we can understand primary riders are males and they ride the bikes for longer periods of time. 
 
 
-![]/(Images/3.png)
+![](Images/3.png)
 
 This heatmap shows that during the weekdays, the peak hours of usage are 6am-9am and 4pm-8pm. 
 Weekends peak hour os usage are between 8am-7pm, with Saturdays having more riders compared to Sundays.
 
 
-![]/(Images/4.png)
+![](Images/4.png)
 
 This heatmap also shows that most of the riders are men both on weekdays and weekends. 
 
 
-![]/(Images/5.png)
+![](Images/5.png)
 
 According to this heatmap most of the users of the service are subscribers, and among both subscribers and costumers, majority of the users are males.
 Thurdays are busiest day among the subscribers and Sundays have the least users. Considering this chart and the time of the day heatmap we can realize that the best time for maintenance and repair of the bikes are Sundays between 2am-7am.
 
 
-![]/(Images/6.png)
+![](Images/6.png)
 
 
 
-![]/(Images/7.png)
+![](Images/7.png)
 
 
 
