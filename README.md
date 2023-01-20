@@ -54,3 +54,5 @@ To better study the practicality of starting a bikeshare company in Des Moines a
  - Age of the users can also be a factor 
  - Comparing the cost of using public transportation to the bikeshare service. 
  - Average mileage of rides at different days and times.
+
+More visulization and stories can be viewed in [My Tableau Dashboard](https://public.tableau.com/views/Module_15_Challenge_16742484069540/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
